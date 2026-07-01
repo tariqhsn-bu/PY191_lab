@@ -4,6 +4,13 @@
             "path": "HelloWorld.py",
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
+        },
+        {
+            "path": "matplot.py",
+            "envManager": "ms-python.python:conda",
+            "packageManager": "ms-python.python:conda"
         }
-    ]
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
 }
