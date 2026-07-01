@@ -196,7 +196,6 @@ def main(screen):
 
 
         # elif key == curses.KEY_UP:
-        # #"please excuse \n my poor coding \n i get goodhnight kisses from max"
         #     if text[:cursor]!="\n":
         #         continue
         #     elif len(text[:cursor]) > 0:
